@@ -153,6 +153,7 @@ header {
 .header_menu_burger a {
 	width: 100%;
 	margin: 0 0 20px 0;
+	color: #f9f9f9;
 }
 .advantages_burger div {
 	width: 70%;
