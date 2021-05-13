@@ -961,6 +961,7 @@ header {
 	}
 	.first_block_left {
 		height: 392px;
+		justify-content: flex-start;
 	}
 	.first_block_flex_element {
 		margin-bottom: 52px;
