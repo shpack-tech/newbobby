@@ -1051,6 +1051,9 @@ header {
 }
 @media (max-width: 730px) {
 	/* global) */
+	.header_content {
+		height: 60px;
+	}
 	.video_play {
 		height: 30px;
 		width: 30px;
