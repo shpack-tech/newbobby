@@ -1054,6 +1054,9 @@ header {
 	.header_content {
 		height: 60px;
 	}
+	.first_block_flex_element {
+		margin-top: 90px;
+	}
 	.video_play {
 		height: 30px;
 		width: 30px;
