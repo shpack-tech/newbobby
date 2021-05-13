@@ -175,7 +175,7 @@ header {
 .first_block_title {
 	width: 455px;
 	height: 232px;
-	margin: 20px;
+	margin: 0 0 20px 0;
 }
 .first_block_article {
 	line-height: 29px;
